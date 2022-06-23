@@ -1,0 +1,1 @@
+alert("Name: Daniel\nHeight: 178cm\nCountry: Nigeria")
